@@ -7,11 +7,16 @@ Since this was for an online game, I introduced random pauses and misclicks to a
 
 I used the pyautogui library to find the images on the screen, the win32api, win32con to allow mouse event and os/os.path to save and locate training images on my computer.
 
+
 For the script to work, your project needs the following directory:
 
 theBot.py
+
 itemA -> itemA1.png, itemA2.png, ...
+
 itemB -> itemB1.png, itemB2.png, ...
+
+
 
 Some thoughts on the project:
 
